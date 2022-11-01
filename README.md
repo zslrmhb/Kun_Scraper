@@ -1,3 +1,5 @@
-# Kun_Scraper
+## This is the scraper used to fetch the data for this project:
 
-Small Scraper for scraping images from Google
+## But it can also fetch other image data from google
+
+#### Scraper for this project: https://github.com/zslrmhb/Kun_Classifier
